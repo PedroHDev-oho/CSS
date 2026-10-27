@@ -1,0 +1,11 @@
+
+
+O que é CSS?
+
+Cascading Style Sheets, ou folha de estilo em cascata 
+é um mecanismo para adicionar estilos a um documento web (HTML)
+
+Determina como devwew ser o layout de uma pagina e como os elementos
+do nosso site deve ser;
+
+Criado em 1994 por Hakon Wium Lie para facilitar o desenvolvimento de sites 
