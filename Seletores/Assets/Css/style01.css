@@ -1,0 +1,33 @@
+
+
+h1{
+    background-color: brown;
+    color: bisque;
+}
+
+div
+{
+    background-color: lightblue;
+}
+
+li
+{
+    background-color: lightgreen;
+}
+
+#txt_BemVindo
+{
+    background-color: gold;
+}
+
+
+.item01
+{
+    color: gray;
+}
+
+
+*{
+    background-color: lightgray;
+    color: white;
+}
